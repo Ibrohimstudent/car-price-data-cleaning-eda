@@ -33,6 +33,19 @@ This project demonstrates a complete data cleaning and exploratory data analysis
 7. Correlation Analysis
 8. Key Insights
 
+## Sample Visualizations
+
+### Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+### Selling Price Distribution
+
+![Histogram](images/targetvariabledistribution.png)
+
+### Outlier Detection
+
+![Barplot](images/barplot.png)
 ## Key Findings
 
 - Vehicle selling price increases with engine power.

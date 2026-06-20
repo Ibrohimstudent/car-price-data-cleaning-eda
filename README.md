@@ -35,13 +35,13 @@ This project demonstrates a complete data cleaning and exploratory data analysis
 
 ## Sample Visualizations
 
+### Selling Price Distribution
+
+![Histogram](images/distribution.png)
+
 ### Correlation Heatmap
 
 ![Heatmap](images/heatmap.png)
-
-### Selling Price Distribution
-
-![Histogram](images/targetvariabledistribution.png)
 
 ### Outlier Detection
 

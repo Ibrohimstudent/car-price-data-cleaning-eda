@@ -39,13 +39,23 @@ This project demonstrates a complete data cleaning and exploratory data analysis
 
 ![Histogram](images/distribution.png)
 
+The histogram visualizes the distribution of vehicle selling prices. The boxplot highlights remaining outliers, while the density curve helps evaluate normality and skewness.
+
 ### Correlation Heatmap
 
 ![Heatmap](images/heatmap.png)
 
+The correlation heatmap illustrates relationships among numerical features. Strong positive and negative correlations help identify variables that influence selling price.
+
+Insight
+Features such as max_power, engine size, and vehicle year show stronger relationships with selling price compared to other variables.
+
 ### Outlier Detection
 
-![Barplot](images/barplot.png)
+![Outlier Detection](images/outlier_detection.png)
+The boxplots compare selling price distributions before and after outlier treatment. The reduction of extreme values results in a more representative dataset.
+The histograms show how the target variable distribution changes after removing abnormal observations. The cleaned distribution becomes more balanced and suitable for modeling.
+
 ## Key Findings
 
 - Vehicle selling price increases with engine power.
